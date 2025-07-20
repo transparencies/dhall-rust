@@ -2,6 +2,10 @@
 
 #### [Unreleased]
 
+#### [0.13.0] - unreleased
+
+- BREAKING CHANGE: Change minimum supported version to 1.76.0 because of the `wasm_bindgen` dependency
+
 #### [0.12.1] - 2023-02-01
 
 #### [0.12.0] - 2022-08-15
