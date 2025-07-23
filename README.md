@@ -53,7 +53,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-serde_dhall = "0.12.1"
+serde_dhall = "0.13.0"
 ```
 
 Reading Dhall files is easy and leverages the wonderful [`serde`](https://crates.io/crates/serde) library.
@@ -74,7 +74,7 @@ expected_map.insert("y".to_string(), 2);
 assert_eq!(deserialized_map, expected_map);
 ```
 
-`dhall` requires Rust >= 1.60.0
+`dhall` requires Rust >= 1.76.0
 
 ## Standard-compliance
 
