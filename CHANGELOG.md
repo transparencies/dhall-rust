@@ -2,8 +2,6 @@
 
 #### [Unreleased]
 
-#### [0.13.0] - unreleased
-
 - Support enum struct variants in `SimpleType`
 - BREAKING CHANGE: Change minimum supported version to 1.76.0 because of the `wasm_bindgen` dependency
 
