@@ -2,6 +2,8 @@
 
 #### [Unreleased]
 
+#### [0.13.0] - 2025-09-10
+
 - Support enum struct variants in `SimpleType`
 - BREAKING CHANGE: Change minimum supported version to 1.76.0 because of the `wasm_bindgen` dependency
 
@@ -141,7 +143,8 @@
 - Initial release
 
 <!-- next-url -->
-[Unreleased]: https://github.com/Nadrieril/dhall-rust/compare/serde_dhall-v0.12.1...HEAD
+[Unreleased]: https://github.com/Nadrieril/dhall-rust/compare/serde_dhall-v0.13.0...HEAD
+[0.13.0]: https://github.com/Nadrieril/dhall-rust/compare/serde_dhall-v0.12.1...serde_dhall-v0.13.0
 [0.12.1]: https://github.com/Nadrieril/dhall-rust/compare/serde_dhall-v0.12.0...serde_dhall-v0.12.1
 [0.12.0]: https://github.com/Nadrieril/dhall-rust/compare/serde_dhall-v0.11.2...serde_dhall-v0.12.0
 [0.11.2]: https://github.com/Nadrieril/dhall-rust/compare/serde_dhall-v0.11.1...serde_dhall-v0.11.2

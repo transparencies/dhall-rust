@@ -2,7 +2,7 @@ push = false
 publish = true
 allow-branch = ["master"]
 dependent-version = "upgrade"
-pre-release-commit-message = "release: {{crate_name}} version {{version}}"
+pre-release-commit-message = "release: bump versions"
 
 [[pre-release-replacements]]
 file = "src/lib.rs"
